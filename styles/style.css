@@ -1,0 +1,17 @@
+
+.target-area{
+	border: 1px solid silver;
+	height: 200px;
+	background: #f9f9f9;
+	margin: 0 auto;
+	text-align: center;
+}
+.active{
+	background: #f2f2f2;
+}
+h1{
+	text-shadow: 2px 2px 8px black;
+}
+img:hover{
+	filter:grayscale(80%)
+}
